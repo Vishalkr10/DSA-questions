@@ -32,6 +32,7 @@ public class SwitchCase {
             default:
                 System.out.println("Invalid day number! Enter between 1 to 7.");
         }
+        
     }
     
 }
